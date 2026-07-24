@@ -1,6 +1,6 @@
-﻿# CCNA Lab: HSRP & DHCP (Buổi 13)
+﻿# CCNA Lab: HSRP & DHCP
 
-Đây là bài thực hành CCNA (Buổi 13), tập trung vào cấu hình **HSRP** (Hot Standby Router Protocol) và **DHCP** (Dynamic Host Configuration Protocol).
+Đây là bài thực hành CCNA, tập trung vào cấu hình **HSRP** (Hot Standby Router Protocol) và **DHCP** (Dynamic Host Configuration Protocol).
 
 ## 📂 Danh sách các file trong Lab:
 - 📄 **\De_bai_Thuc_hanh_Mang.docx\**: Đề bài chi tiết và yêu cầu cấu hình của bài thực hành.
